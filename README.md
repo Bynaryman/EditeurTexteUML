@@ -1,4 +1,8 @@
-###AUTHORS
+##OVERVIEW
+
+Best editeur de texte
+
+##AUTHORS
 
 Julien Durand, Ledoux Louis, Perret Marc, Guihaire Clément
 
